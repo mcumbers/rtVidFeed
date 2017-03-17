@@ -1,0 +1,15 @@
+(lp0
+S'<Website (RoosterTeeth, AchievementHunter, FunHaus, ScrewAttack, GameAttack, TheKnow, CowChop)>'
+p1
+aS'<Username>'
+p2
+aS'<Password>'
+p3
+aS'<Main Feed Channel Webhook URL>'
+p4
+aS'<FIRST Feed Channel Webhook URL>'
+p5
+aS'<Webhook Avatar URL>'
+p6
+aI0
+a.
