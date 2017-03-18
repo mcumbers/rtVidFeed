@@ -1,5 +1,5 @@
 (lp0
-S'<Website (RoosterTeeth, AchievementHunter, FunHaus, ScrewAttack, GameAttack, TheKnow, CowChop)>'
+S'<Website>'
 p1
 aS'<Username>'
 p2
@@ -12,4 +12,6 @@ p5
 aS'<Webhook Avatar URL>'
 p6
 aI0
+aI01
+aI01
 a.
